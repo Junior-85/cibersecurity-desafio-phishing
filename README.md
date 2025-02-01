@@ -1,3 +1,6 @@
+# Fiz um teste de forking do código do professor. 
+# Não deve ser avaliado pois não tem conteúdo próprio.
+
 # Phishing para captura de senhas do Facebook
 
 ### Ferramentas
